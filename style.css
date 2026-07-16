@@ -731,7 +731,7 @@ li.has-dropdown.open .dropdown { opacity: 1; visibility: visible; transform: tra
   .process-grid, .stat-band { grid-template-columns: 1fr; }
   .footer-grid { grid-template-columns: 1fr; }
   .cta-band { flex-direction: column; align-items: flex-start; }
-  .hero { align-items: stretch; background-position: 30% 78%; background-size: auto 180%; }
+  .hero { align-items: stretch; background-position: 32% 58%; background-size: auto 140%; }
   .hero-content {
     display: flex;
     flex-direction: column;
